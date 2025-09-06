@@ -1,8 +1,6 @@
 // File: Assignment_6_akhil.java
 // Author: Bangaru Chaitanya Venkata Sai Akhil
 
-import java.util.*;
-
 abstract class Employee {
     String empId;
     String empName;
@@ -15,7 +13,7 @@ abstract class Employee {
 
     // Static variables
     static int totalEmployees = 0;
-    static String companyName = "OpenAI Tech Solutions";
+    static String companyName = "Microsoft Tech Solutions";
     static double totalSalaryExpense = 0.0;
     static int workingDaysPerMonth = 22;
 
