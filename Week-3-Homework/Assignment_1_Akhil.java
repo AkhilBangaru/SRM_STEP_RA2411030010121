@@ -1,4 +1,4 @@
-// File: Assignment_1_akhil.java
+// File: Assignment_1_Akhil.java
 // Author: Bangaru Chaitanya Venkata Sai Akhil
 
 class PersonalAccount {
@@ -76,7 +76,7 @@ class PersonalAccount {
     }
 }
 
-public class Assignment_1_akhil {
+public class Assignment_1_Akhil {
     public static void main(String[] args) {
         // Set bank name (shared by all accounts)
         PersonalAccount.setBankName("OpenAI Bank");
