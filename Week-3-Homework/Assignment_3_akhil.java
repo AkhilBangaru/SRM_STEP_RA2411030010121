@@ -54,7 +54,7 @@ class Booking {
     // Static variables
     static int totalBookings = 0;
     static double hotelRevenue = 0.0;
-    static String hotelName = "Grand OpenAI Hotel";
+    static String hotelName = "Grand Taj Hotel";
 
     public Booking(String bookingId, Guest guest, Room room, String checkInDate, String checkOutDate, double totalAmount) {
         this.bookingId = bookingId;
