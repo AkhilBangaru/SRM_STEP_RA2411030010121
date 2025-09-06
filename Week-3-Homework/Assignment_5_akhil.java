@@ -38,7 +38,7 @@ class Member {
     // Static variables
     static int totalBooks = 0;
     static int totalMembers = 0;
-    static String libraryName = "OpenAI Central Library";
+    static String libraryName = "Cambridge Central Library";
     static double finePerDay = 2.0;
     static int maxBooksAllowed = 3;
 
